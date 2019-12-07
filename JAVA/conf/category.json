@@ -1,0 +1,35 @@
+{
+	"here": {
+		"Coffee/Tea": ["cafe"],
+		"Restaurant": ["restaurant"],
+		"Petrol Station": ["gas_station"],
+		"Snacks/Fast food": ["food"],
+		"Airport": ["airport"],
+		"Shop": ["shop"],
+		"Food & Drink":["restaurant","food"],
+		"Bar/Pub":["bar"],
+		"ATM/Bank/Exchange":["atm"],
+		"Car Dealer/Repair":["car_repair"]
+	},
+	"tomtom": {
+		"café/pub": ["cafe"],
+		"café": ["cafe"],
+		"coffee shop": ["cafe"],
+		"petrol station": ["gas_station"],
+		"restaurant": ["restaurant"],
+		"pizza":["restaurant"],
+		"fast food":["food"],
+		"airport":["airport"],
+		"pub":["bar"],
+		"internet café":["cafe"],
+		"tea house":["cafe"],
+		"general car repair servicing": ["car_repair"],
+		"repair facility": ["car_repair"],
+		"car wash":["car_wash"],
+		"cash dispenser":["atm"],
+		"open parking area":["parking"],
+		"sandwich":["food"],
+		"food drinks: food shops":["food"]
+	},
+	"description": "mapping category(via google)"
+}
