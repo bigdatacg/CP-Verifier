@@ -1,0 +1,29 @@
+[
+  {
+    "location": {
+      "lon": 2.2770207,
+      "radius": 500,
+      "lat": 48.8588377
+    },
+    "keyword": "coffee"
+
+  },
+  {
+    "location": {
+      "lon": 2.2770207,
+      "radius": 500,
+      "lat": 48.8588377
+    },
+    "keyword": "co"
+
+  },
+  {
+    "location": {
+      "lon": 2.2770207,
+      "radius": 500,
+      "lat": 48.8588377
+    },
+    "keyword": "pizza"
+
+  }  
+]
